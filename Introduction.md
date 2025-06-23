@@ -1,4 +1,8 @@
 # Introduction
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b65aa41-29cd-4f4e-9323-526eaec00aae" style="max-width: 100%; height: auto;">
+</p>
+
 Hello ! I am currently learning **Single Cell RNA Seq ANALYSIS**
 As such, the first challenge I faced is finding and understanding the datasets and **How to load** them in R ( working on R ).
 I am following an workshop tutorial in which is complex , so this repository is for documenting and practicing those elements that I learn from there. 
