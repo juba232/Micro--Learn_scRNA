@@ -114,6 +114,11 @@ load("SRA553822_SRS2119548.sparse.RData")
 srt <- CreateSeuratObject(sm)
 ```
 >[!Note]
->the object `sm` is auto generated object after loading the `RData`
+>the object `sm` is auto generated object after loading the `RData`. and this it for our RNA sequencing.. 
+
+mow the hardest part , getting data from
+
+3. NCBI/GEO
+
 
 
